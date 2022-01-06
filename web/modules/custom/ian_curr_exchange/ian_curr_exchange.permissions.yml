@@ -1,0 +1,4 @@
+administer ian_curr_exchange configuration:
+  title: 'Administer ian_curr_exchange configuration'
+  description: 'Optional description.'
+  restrict access: true

@@ -1,0 +1,8 @@
+name: ian_curr_exchange
+type: module
+description: Currency Exchange App Example
+package: Custom
+core: 8.x
+core_version_requirement: ^8 || ^9
+dependencies:
+  - rest

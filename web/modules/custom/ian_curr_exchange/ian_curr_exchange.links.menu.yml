@@ -1,0 +1,6 @@
+ian_curr_exchange.settings_form:
+  title: ian_curr_exchange
+  description: Configure ian_curr_exchange.
+  parent: system.admin_config_system
+  route_name: ian_curr_exchange.settings_form
+  weight: 10
